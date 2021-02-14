@@ -29,6 +29,7 @@ your assignment. Right click `src` and go to New > Directory and select `main/ja
   which is the total number of bytes in the file.
     - Uncomment the test named `totalBytes_shouldSumNumbersInStringArray` in the `MyFileTest` class
       (in the test/java directory). Run the code analyzers and commit your code now.
+      
 **2.** In the main/java directory, create a class named `MyFileDemo`.
 - To test your class, make several `MyFile` objects and call the method for each object.
 
